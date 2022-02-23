@@ -4,7 +4,7 @@ from setuptools import find_packages
 
 setup(
     name="blqr",
-    author="",
+    author="Ta-Chu Kao",
     version="0.0.1",
     description="Batch LQR",
     license="MIT",
