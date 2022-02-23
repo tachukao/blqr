@@ -1,7 +1,4 @@
-"""Batched finite-time linear quadratic regulator (batch_lqr)
-
-Adapted from https://github.com/google/trajax/blob/main/trajax/tvlqr.py
-"""
+"""Batched finite-time linear quadratic regulator (batch_lqr)"""
 
 from __future__ import absolute_import
 from __future__ import division
